@@ -1,11 +1,24 @@
-- 👋 Olá, me chamo @LucasFaustinoAraujo
-- 🌱 Dominando <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 99%.
-- ⚡ Curioso sobre <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40"/>,<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>.
-- 🔭 Ferramentas que costumo usar <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>,
-              
-  
+# Olá, eu sou Lucas Faustino! 👋
 
-<!---
-LucasFaustinoAraujo/LucasFaustinoAraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Estudante de Ciências da Computação** no 7º semestre pela Estácio.  
+🔧 **Formação técnica** em Informática pela Escola Técnica de Maracanaú, com experiência em:  
+- Montagem de computadores.  
+- Lógica de programação.  
+- Desenvolvimento para dispositivos móveis.  
+- Programação em Python.  
+
+## 🛠️ Tecnologias e Ferramentas:
+- **Linguagens:** Python, C (nível básico), Java (nível médio).  
+- **Conhecimentos:** Desenvolvimento de software, manutenção de computadores, dispositivos móveis e lógica de programação.  
+
+## 🌱 Atualmente aprendendo:
+- Melhorando habilidades em C e Java.  
+- Explorando ciência de dados e desenvolvimento com Python.  
+
+## 📫 Contato:
+- **LinkedIn:** www.linkedin.com/in/lucas-faustino-44a314345 
+- **Email:** lucasfaustinodev@gmail.com 
+
+---
+
+✨ Estou sempre aberto a colaborações e novos desafios!  
