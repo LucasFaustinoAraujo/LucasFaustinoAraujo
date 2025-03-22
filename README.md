@@ -9,7 +9,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas:
 - **Linguagens:** Python, C (nível básico), Java (nível médio).  
-- **Conhecimentos:** Desenvolvimento de software, manutenção de computadores, dispositivos móveis e lógica de programação.  
+- **Conhecimentos:** Desenvolvimento de software, manutenção de computadores e lógica de programação.  
 
 ## 🌱 Atualmente aprendendo:
 - Melhorando habilidades em C e Java.  
